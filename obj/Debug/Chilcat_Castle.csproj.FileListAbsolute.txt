@@ -1,0 +1,15 @@
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\bin\Debug\Chilcat_Castle.exe.config
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\bin\Debug\Chilcat_Castle.exe
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\bin\Debug\Chilcat_Castle.pdb
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\obj\Debug\Chilcat_Castle.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\obj\Debug\Chilcat_Castle.exe
+C:\Users\Caleb\Desktop\NEPCORE_PREREQUISITES\Chilcat_CastleEXPERIMENTS\Chilcat_Castle\obj\Debug\Chilcat_Castle.pdb
+F:\Chilcat_Castle\bin\Debug\Chilcat_Castle.exe.config
+F:\Chilcat_Castle\obj\Debug\Chilcat_Castle.exe
+F:\Chilcat_Castle\obj\Debug\Chilcat_Castle.pdb
+F:\Chilcat_Castle\obj\Debug\Chilcat_Castle.csprojResolveAssemblyReference.cache
+F:\Chilcat_Castle\bin\Debug\Chilcat_Castle.exe
+F:\Chilcat_Castle\bin\Debug\Chilcat_Castle.pdb
+F:\Chilcat_Castle\bin\Debug\BouncyCastle.Crypto.dll
+F:\Chilcat_Castle\bin\Debug\ChilkatDotNet45.dll
